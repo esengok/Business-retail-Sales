@@ -1,1 +1,1 @@
-# Recommend-New-Products-Case-Study
+# Bellabeat Case Study Using Bigquery
